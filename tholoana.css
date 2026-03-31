@@ -1,0 +1,63 @@
+
+body{  background-image:url("home-decor2.jpg");
+      text-align:center;
+}
+p {
+   color:red;
+   text-align:center;
+}
+h1 {
+   color:blue;text-align:center;
+}
+h2 {
+color:blue;text-align:center;
+}
+li {color:white;
+    text-align:none;
+}
+
+    
+top-icons {text-align:right;
+           padding:10px;
+}
+
+nav{ background-color:black;
+     overflow:hidden;
+     text-align:center;
+     font-size:17px;
+     text-color:white;
+     padding:10px;
+     margin:0;
+}
+nav li{
+     margin:15px;
+}
+nav a{
+      color:white; text-decoration:none;
+}
+product {
+         background: white;
+         padding:15px;
+         width:200px;
+         text-align:center;
+}
+.footer {
+      background:black;
+        text-align:center;
+       color:white;
+        padding:15px;
+        margin-top:20px;
+}
+whatsapp {
+          poitsion:fixed;
+          bottom:70px;
+          right:20px;
+          background-color:green;
+          color:white;
+          padding:10px;
+          border-radius:50%;
+}
+
+
+     
+
