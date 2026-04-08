@@ -19,6 +19,13 @@ img {
     width:100%;
       max-width:300px
 }
+main {
+       padding:20px;
+}
+.media {
+        width:100%;
+       max-width:400px;
+}
     
 top-icons {text-align:right;
            padding:10px;
@@ -43,6 +50,11 @@ product {
          padding:15px;
          width:200px;
          text-align:center;
+}
+.grid {
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(150px, 1fr));
+      gap:10px;
 }
 .footer {
       background:black;
